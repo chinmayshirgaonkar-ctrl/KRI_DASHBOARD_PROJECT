@@ -1,0 +1,10 @@
+Date,KRI_Category,Risk_Metric_Value,Threshold_Amber,Threshold_Red,Risk_Log_Description
+2026-06-01,IT Security,12,15,25,System patch updates successfully deployed across all core servers.
+2026-06-03,Financial,45000,30000,50000,Severe liquidity delays observed due to delayed vendor invoices.
+2026-06-05,Operational,8,5,10,High employee turnover in customer support division causing ticket backlogs.
+2026-06-10,Compliance,2,1,4,Minor regulatory filing delay occurred due to system transition down-time.
+2026-06-15,IT Security,28,15,25,Multiple unauthorized access attempts detected on the database firewall.
+2026-06-20,Financial,15000,30000,50000,Quarterly financial review finalized with no major variances reported.
+2026-06-25,Operational,3,5,10,Operations running smoothly with optimized supply chain throughput.
+2026-07-01,Compliance,5,1,4,Failed to submit monthly compliance report within the mandatory framework timeline.
+2026-07-05,IT Security,14,15,25,Routine vulnerability scan completed with minor low-risk flags.
